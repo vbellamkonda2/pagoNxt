@@ -25,5 +25,7 @@ public class PaymentResponse {
 	private double totalCost;
 	
 	private double discountAmt;
+	
+	private String test;
   
 }
