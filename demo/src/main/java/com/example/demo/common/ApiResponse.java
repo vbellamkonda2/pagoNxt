@@ -22,5 +22,4 @@ public class ApiResponse {
   
 	private String description;
   
-	private String error;
 }
