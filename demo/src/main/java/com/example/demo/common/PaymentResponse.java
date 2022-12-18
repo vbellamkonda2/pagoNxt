@@ -26,4 +26,5 @@ public class PaymentResponse {
 	
 	private double discountAmt;
 	
+
 }
