@@ -26,6 +26,6 @@ public class PaymentResponse {
 	
 	private double discountAmt;
 	
-	private String test;
+	private String test1;
   
 }
